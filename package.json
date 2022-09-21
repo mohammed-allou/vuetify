@@ -14,7 +14,7 @@
     "@capacitor/cli": "^2.0.0",
     "@capacitor/core": "^2.0.0",
     "register-service-worker": "^1.7.1",
-    "vuetify": "^2.3.3"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nklayman/vue-cli-plugin-capacitor": "~0.4.0",
